@@ -1,2 +1,2 @@
 # WinRT-console
-![screenshot](winrt.png) 
+![screenshot](winrt.jpg) 
